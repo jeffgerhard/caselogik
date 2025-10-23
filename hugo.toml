@@ -1,0 +1,4 @@
+baseURL = 'https://hosting-render-583g.onrender.com/'
+languageCode = 'en-us'
+title = '💿 Case Logik 💿'
+theme = 'ananke'
